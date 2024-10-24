@@ -3,7 +3,7 @@
 
 $HOST = "127.0.0.1";
 $USER = "alex";
-$PASS = "AlexFlaxIsCool1!";
+$PASS = "";
 $NAME = "helpeverything";
 
 if (!$con = mysqli_connect($HOST, $USER, $PASS, $NAME)) {
